@@ -1,2 +1,2 @@
 # Octanet-task1
-This is my first task on octanet as a intern.
+"Landing page project created during my internship at Octanet. This project is built using HTML and CSS."
